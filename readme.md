@@ -40,7 +40,7 @@ Add this to your `.eslintrc`
 }
 ```
 
-5. You can add two scripts to your package.json to lint and/or fix:
+5. You can add two scripts to your `package.json` to lint and/or fix:
 
 ```json
 "scripts": {
